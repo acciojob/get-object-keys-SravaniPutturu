@@ -5,3 +5,4 @@ Object.prototype.getKeys = ()=>{
 	return Object.keys(this)
 }
 
+student.getKeys()
